@@ -6,31 +6,31 @@
 
 ## Exercise 1
 
-* Open Terminal.
-* Launch the Python interpreter.
-* Print a line that says "Hello Python".
+* Open Terminal. # can be in PyCharm or in zsh/bash/terminal
+* Launch the Python interpreter. # enter python3 into cmd line
+* Print a line that says "Hello Python". # print("Hello Python")
 * Exit the Python interpreter.
 
 ## Exercise 2
 
 * Using the Python interpreter, identify the data type for the following values:
-    * True
-    * 42
-    * False
-    * 1.5
-    * "Python is fun"
-    * "3.5"
+    * True # class <'bool'> meaning Boolean
+    * 42 # class <'int'> meaning Integer
+    * False # class <'bool'> meaning Boolean
+    * 1.5 # class <'float'> meaning floating point number
+    * "Python is fun" # class <'str'> meaning String
+    * "3.5" # class <'str'> meaning String
 
 ## Exercise 3
 
 * Using the Python interpreter, perform the following operations. Be sure to experiment with mixing intergers and floats.
-    * Addition
-    * Subtraction
-    * Multiplication 
-    * Division
-    * Floor division
-    * Modulo
-    * Exponentiation
+    * Addition # >>> 3 + 56 # 59
+    * Subtraction # >>> 59-69 # -10
+    * Multiplication # >>> -10*2 # 20
+    * Division # >>> 20/5 # 4
+    * Floor division # >>> 256//3.14 # 81.0
+    * Modulo # >>> 256%5 # 1
+    * Exponentiation # >>> 2**2**2 # 16
 
 ## Exercise 4
 
